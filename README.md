@@ -9,7 +9,7 @@
 ### 🌌 About Me
 
 ```yaml
-name: Secrete King Star
+name: 18K
 origin: Celestial Realms
 skills:
   - C++, C, C#, Python, Rust, JavaScript, TypeScript, Object-C, Swift, Golang, AI
