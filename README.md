@@ -10,7 +10,6 @@
 
 ```yaml
 name: 18K
-origin: Celestial Realms
 skills:
   - C++, C, C#, Python, Rust, JavaScript, TypeScript, Object-C, Swift, Golang, AI
   - Multi Platform Software, Game, Mobile App, Full Stack, AI, OpenCV
